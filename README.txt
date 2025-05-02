@@ -15,7 +15,7 @@ This is a modern full-stack web application for user management, built with a cl
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Tomauskasz/Simple-Full-Stack-User-Management-System
    cd project-root
    ```
 
